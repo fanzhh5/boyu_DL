@@ -1,2 +1,2 @@
 # boyu_DL
-learning deep learning in pytorch
+deep learning in pytorch
